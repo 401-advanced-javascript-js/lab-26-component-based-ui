@@ -1,0 +1,37 @@
+$backgroundColor: #595F72;
+$textDefaultColor: #FFEDDF;
+
+body {
+  background-color: $backgroundColor;
+  color: $textDefaultColor;
+}
+
+header {
+  text-align: center;
+  color: rgb(28, 40, 68);
+  font-size: 30pt;
+}
+
+#counter {
+  text-align: center;
+  margin: 75px;
+  background-color: rgb(113, 108, 134);
+  padding: 30px;
+  min-width: 400px;
+  border-radius: 1em;
+
+  > h4 {
+    font-size: 50pt;
+    color: #FF8811;
+  }
+
+  > .counterButton {
+    font-size: 25pt;
+    text-decoration: none;
+    color: #FFEAEE;
+
+    margin: 20px auto;
+    padding: 25px;
+    border-radius: 5px;
+  }
+}
