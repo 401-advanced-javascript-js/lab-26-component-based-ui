@@ -6,7 +6,7 @@
 ### Author: Jagdeep Singh
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/401-advanced-javascript-js/lab-26-component-based-ui/pull/1)
 
 ### Modules
 #### `header.js` -> react component
@@ -21,4 +21,4 @@
 * no tests currently
 
 #### UML
-![UML]()
+![UML](image.png)
